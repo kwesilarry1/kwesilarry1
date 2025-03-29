@@ -27,3 +27,6 @@
 🔹 Security Tools & Scripts: Custom Python tools for recon, OSINT, and automation.
 
 🔹 Portfolio & Blog: Sharing my journey, walkthroughs, and insights on GitHub Pages.
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3005719" style='border:none;'></iframe>
+
