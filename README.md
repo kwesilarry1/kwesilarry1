@@ -1,11 +1,22 @@
-# Welcome to My GitHub Portfolio 👋
-Hi, I'm Kwesi Larry"The Wizard", a cybersecurity enthusiast specializing in ethical hacking, vulnerability assessments, and CTF challenges.  
-- 🔐 **Passionate about securing digital landscapes.**  
-- 🕵️‍♂️ **Currently exploring Web application security.**    
-- 📫 Reach me: https://x.com/okxwizard
-<marquee>hello</marquue>
+👋 Hey there! I'm Kwesi Larry
+🔹 Cybersecurity Enthusiast | Web Application Security | OSINT | CTF Player
+🔹 Passionate about ethical hacking, bug bounty hunting, and digital forensics.
+🔹 Love solving CTF challenges, breaking things (ethically), and sharing my knowledge.
 
-<!---
-kwesilarry1/kwesilarry1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔥 What I Do
+🛠 Penetration Testing & Web Security – I research and exploit web vulnerabilities.
+
+🔍 OSINT & Reconnaissance – Gathering intelligence with manual techniques and tools.
+
+🎯 Bug Bounty Hunting – Finding and reporting security flaws in real-world applications.
+
+🎥 Content Creation – Running a cybersecurity YouTube channel with tutorials and walkthroughs.
+
+🖥 Linux Instructor – Teaching Linux fundamentals in a cybersecurity bootcamp.
+
+🚀 Projects & Work
+🔹 CTF Writeups & Research: I document my security research, findings, and solutions.
+
+🔹 Security Tools & Scripts: Custom Python tools for recon, OSINT, and automation.
+
+🔹 Portfolio & Blog: Sharing my journey, walkthroughs, and insights on GitHub Pages.
