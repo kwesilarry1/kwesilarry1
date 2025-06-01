@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwesi Larry</h1>
-<h3 align="center"> Application Penetration Tester | Bug Bounty Hunter | CTF Player</h3>
+<h3 align="center"> Application Penetration Tester | Bug Bounty Hunter | CTF Player | OSINT</h3>
 
 
 ---
