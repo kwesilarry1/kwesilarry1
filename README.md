@@ -20,3 +20,12 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kwesilarry1&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=kwesilarry1&theme=tokyonight&hide_border=true" />
+</p>
