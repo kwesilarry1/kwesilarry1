@@ -35,7 +35,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://yourwebshttps://kwesilarry1.github.io/" target="blank">🌍 Blog</a> •
+  <a href="https://https://kwesilarry1.github.io/" target="blank">🌍 Blog</a> •
   <a href="https://twitter.com/okxwizard target="blank">🐦 Twitter(X)</a> •
   <a href="mailto:kwesizwizard@proton.me">📧 Email</a> •
   <a href="https://linkedin.com/in/appiahbismark" target="blank">💼 LinkedIn</a>
