@@ -26,6 +26,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apppiah-Bismark&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=kwesilarry1&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=kwesilarry1&theme=tokyonight&hide_border=true" />
 </p>
@@ -40,3 +41,6 @@
   <a href="mailto:kwesixwizard@proton.me">📧 Email</a> •
   <a href="https://linkedin.com/in/appiahbismark" target="blank">💼 LinkedIn</a>
 </p>
+
+---
+> “Practice. Hack. Learn. Repeat.”
