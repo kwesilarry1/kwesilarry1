@@ -43,4 +43,4 @@
 </p>
 
 ---
-> **Practice. Hack. Learn. Repeat.**
+ **Practice. Hack. Learn. Repeat.**
