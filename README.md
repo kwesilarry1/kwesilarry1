@@ -37,8 +37,8 @@
 
 <p align="left">
   <a href="https://https://kwesilarry1.github.io/" target="blank">🌍 Blog</a> •
-  <a href="https://x.com/0xwizard_ target="blank">🐦 Twitter(X)</a> •
-  <a href="mailto:kwesixwizard@proton.me">📧 Email</a> •
+  <a href="https://x.com/0xwizard_ target="blank"> Twitter(X)</a> •
+  <a href="mailto:kwesixwizard@proton.me"> Email</a> •
   <a href="https://linkedin.com/in/appiahbismark" target="blank">💼 LinkedIn</a>
 </p>
 
