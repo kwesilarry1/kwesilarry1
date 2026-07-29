@@ -28,6 +28,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kwesilarry1&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-stats-extended.vercel.app/api?username=kwesilarry1&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=kwesilarry1&theme=tokyonight&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=kwesilarry1)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 
